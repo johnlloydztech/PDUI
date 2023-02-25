@@ -1,3 +1,10 @@
+UI Update
+
+![Dashboard](https://user-images.githubusercontent.com/75487625/221336696-d0b67287-8b10-4219-9645-1f8c76ce0a46.PNG)
+
+![Control](https://user-images.githubusercontent.com/75487625/221336702-1b95644b-41e9-448e-a51b-dcc9c94fd3eb.PNG)
+![Team](https://user-images.githubusercontent.com/75487625/221336710-809c69b9-0943-4ec9-b0a0-82740b013a71.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
